@@ -1,0 +1,92 @@
+[
+    {
+        "name": "Wireless Bluetooth Headphones",
+        "price": 59.99,
+        "description": "High-quality sound with long-lasting battery performance.",
+        "image": "https://i.pcmag.com/imagery/roundups/03u8blp6QhxwqzAKHuoEVW6-11.fit_lim.size_1050x.jpg"
+    },
+    {
+        "name": "Ergonomic Wireless Mouse",
+        "price": 25.99,
+        "description": "Comfortable wireless mouse with precision tracking and ergonomic design.",
+        "image": "https://cdn3.evostore.io/productimages/vow_premium/l/ch08801.jpg"
+    },
+    {
+        "name": "Smartphone Case",
+        "price": 15.95,
+        "description": "Durable and stylish smartphone case with extra protection.",
+        "image": "https://i.pinimg.com/736x/46/6a/84/466a84a1ec6eec50c08245a378171e7e.jpg"
+    },
+    {
+        "name": "Sports Action Camera",
+        "price": 125.00,
+        "description": "Capture your best moments with our high-definition action camera.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZmrCClXhAhGDuWvH6x3nRVTO2skRrOCdW_-4XSCVNmNXSqVtkV7uAvmLps4q14ouQ5Hk&usqp=CAU"
+    },
+    {
+        "name": "Portable External Hard Drive",
+        "price": 75.50,
+        "description": "Secure and portable storage solution for backing up your important files.",
+        "image": "https://static.vecteezy.com/system/resources/thumbnails/002/396/602/small/isolated-external-hard-drive-with-usb-connector-isometric-vector.jpg"
+    },
+    {
+        "name": "Smart Home Speaker",
+        "price": 89.99,
+        "description": "Voice-activated smart speaker with high-fidelity sound.",
+        "image": "https://media.istockphoto.com/id/1320780003/photo/digital-background-smart-assistant.jpg?s=612x612&w=0&k=20&c=uM5JL7S0fyb8_X0lbfg82hT4jWA7eIrdaMoqFiaHipU="
+    },
+    {
+        "name": "Waterproof Smartwatch",
+        "price": 199.99,
+        "description": "Stay connected and track your fitness with our waterproof smartwatch.",
+        "image": "https://cdn.shopify.com/s/files/1/0356/9850/7909/files/zeb-Gemini-banner8.jpg?v=1697106712"
+    },
+    {
+        "name": "USB-C Charging Cable",
+        "price": 9.99,
+        "description": "Fast-charging USB-C cable compatible with all modern devices.",
+        "image": "https://www.shutterstock.com/image-vector/3d-realistic-vector-icon-black-260nw-2314649167.jpg"
+    },
+    {
+        "name": "Gaming Keyboard",
+        "price": 129.99,
+        "description": "Mechanical gaming keyboard with custom RGB lighting.",
+        "image": "https://static.vecteezy.com/system/resources/thumbnails/007/942/559/small_2x/gaming-keyboard-rgb-effect-illustration-free-vector.jpg"
+    },
+    {
+        "name": "Tablet",
+        "price": 250.00,
+        "description": "High-resolution display and powerful performance tablet.",
+        "image": "https://d2jdgazzki9vjm.cloudfront.net/computer/images/what-is-a-graphics-tablet.jpg"
+    },
+    {
+        "name": "Wireless Charging Stand",
+        "price": 45.00,
+        "description": "Convenient wireless charging stand for all your Qi-compatible devices.",
+        "image": "https://images.mobilefun.co.uk/graphics/450pixelp/96454.jpg"
+    },
+    {
+        "name": "LED Desk Lamp",
+        "price": 33.00,
+        "description": "Brighten up your workspace with our adjustable LED desk lamp.",
+        "image": "https://cdn.pixabay.com/photo/2022/03/03/18/14/desk-lamp-7045824_1280.png"
+    },
+    {
+        "name": "Electric Kettle",
+        "price": 47.00,
+        "description": "Quickly boil water with our efficient electric kettle.",
+        "image": "https://static.vecteezy.com/system/resources/previews/015/394/892/original/kitchen-electric-kettle-illustration-for-graphic-design-and-decorative-element-vector.jpg"
+    },
+    {
+        "name": "Bluetooth Speaker",
+        "price": 69.00,
+        "description": "Portable Bluetooth speaker with excellent sound quality.",
+        "image": "https://png.pngtree.com/png-vector/20211229/ourmid/pngtree-2-5d-bluetooth-speaker-vector-elements-png-image_4072292.png"
+    },
+    {
+        "name": "Fitness Tracker",
+        "price": 99.99,
+        "description": "Track your activity levels and monitor your health with our fitness tracker.",
+        "image": "https://cdn.mos.cms.futurecdn.net/Pk5ydxYo6ty2Q4SX9vznP6.jpg"
+    }
+]
